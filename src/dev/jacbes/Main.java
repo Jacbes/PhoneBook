@@ -16,7 +16,7 @@ public class Main {
         System.out.println(eltex);
 
         try {
-            FileReader fileReader = new FileReader("src/dev/jacbes/importUsers.txt");
+            FileReader fileReader = new FileReader("res/importUsers.txt");
             Scanner scanner = new Scanner(fileReader);
 
             while (scanner.hasNextLine()) {
