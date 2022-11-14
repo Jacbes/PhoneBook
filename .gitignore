@@ -30,3 +30,9 @@ bin/
 
 .idea
 PhoneBook.iml
+
+.gradle
+gradle
+app/build
+build
+gradlew*
